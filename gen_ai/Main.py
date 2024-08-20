@@ -4,7 +4,7 @@ import streamlit.components.v1 as components
 from streamlit_extras.colored_header import colored_header
 
 variables={
-    "project":"vtxdemos",
+    "project":"gcp-dadosfera-prd",
     "location":"global",
     "region": "us-central1",
     "datastore": "news_1687453492092"
